@@ -25,7 +25,7 @@ function createFrame(names) {
 
     //Demás líneas del marco
     const frameNames = names.map(name => {
-        spacesAfterName = ' '.repeat(longestName - name.length);
+        const spacesAfterName = ' '.repeat(longestName - name.length);
         return `* ${name}${spacesAfterName} *`;
     });
 
