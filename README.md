@@ -27,7 +27,7 @@ Para resolver los retos, utilizo:
 | Día | Reto                          | Estado       | Solución                                                |
 |-----|-------------------------------|--------------|---------------------------------------------------------|
 | 01  |  Ordenar regalos 🎁           | ✅ Completado | [Día 1](./day01/solution.js)                           |
-| 02  | Título del reto del día 2     | 🚧 En progreso | [Día 2](./day02/solution.js)                           |
+| 02  |  🖼️ Enmarcando nombres        | ✅ Completado | [Día 2](./day02/solution.js)                           |
 | 03  | Título del reto del día 3     | ⏳ Pendiente  | _(Próximamente)_                                       |
 
 _Se actualizará diariamente hasta completar los 24 retos._
