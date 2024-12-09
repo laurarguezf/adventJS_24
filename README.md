@@ -30,7 +30,8 @@ Para resolver los retos, utilizo:
 | 02  |  🖼️ Enmarcando nombres        | ✅ Completado | [Día 2](./day02/solution.js)                            |
 | 03  | Organizando el inventario 📇  | ✅ Completado | [Día 3](./day03/solution.js)                            |
 | 04  | Decorando el árbol de Navidad 🎄 | ✅ Completado | [Día 4](./day04/solution.js)                         |
-| 05  | Emparejando botas 🥾 | ✅ Completado | [Día 5](./day05/solution.js)                         |
+| 05  | Emparejando botas 🥾          | ✅ Completado | [Día 5](./day05/solution.js)                            |
+| 06  | 📦 ¿Regalo dentro de la caja? | ✅ Completado | [Día 6](./day06/solution.js)                            |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
