@@ -14,3 +14,18 @@ no estar. Y debemos devolver true si el * está dentro de la caja y
 false en caso contrario.
 
 */
+
+function inBox(box) {
+
+    for (let i = 1; i < box.length - 1; i++) {
+        const row = box[i];
+
+        if(row.includes('*') && row[0] !== '*' && row[row.length - 1] !== '*') {
+            return true
+        };
+    }
+
+    return false
+}
+
+module.exports = inBox;
