@@ -35,3 +35,5 @@ function createXmasTree(height, ornament) {
 
     return tree;
 }
+
+module.exports = createXmasTree;
