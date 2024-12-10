@@ -36,5 +36,26 @@ fixPackages('a(b(c))e')
 
 function fixPackages(packages) {
 
-    return ''
+    const packagesArray = packages.split(""); //Trasformamos el string en array usando de separación el espacio
+    const bracketsIndex = []; //Para almacenar las posiciones de los paréntesis
+
+    for (let i = 0; i < packagesArray.length ; i++) {
+        if (packagesArray[i] === '(') {
+            bracketsIndex.push(i); //Almacenamos la posición del paréntesis de apertura
+        }
+        else if (packagesArray[i] === ')') {
+            const openBracketIndex = bracketsIndex.pop(); //Este es el índice del paréntesis de apertura
+            const reverseContent = packagesArray.slice(openBracketIndex + 1, i).reverse(); //Aquí seleccionamos lo elementos en el interior de los brackets y los volteamos
+            
+            //Reemplazamos el contenido original con el contenido volteado
+            //splice(4, 1, "dog") -> replaces 1 element at index 4 with "dog"
+            packagesArray.splice(openBracketIndex, i - openBracketIndex + 1, ...reverseContent);
+
+            i = openBracketIndex;
+        }
+    }
+
+    return packagesArray.filter(letter => letter !== '(' && letter !== ')').join(''); //Aquí retornamos un string identificando las letras que sean distintas a ( y )
 }
+
+module.exports = fixPackages;

@@ -32,6 +32,7 @@ Para resolver los retos, utilizo:
 | 04  | Decorando el árbol de Navidad 🎄 | ✅ Completado | [Día 4](./day04/solution.js)                         |
 | 05  | Emparejando botas 🥾          | ✅ Completado | [Día 5](./day05/solution.js)                            |
 | 06  | 📦 ¿Regalo dentro de la caja? | ✅ Completado | [Día 6](./day06/solution.js)                            |
+| 07  | El ataque del Grinch 👹       | ✅ Completado | [Día 7](./day07/solution.js)                            |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
