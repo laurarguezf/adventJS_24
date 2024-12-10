@@ -33,6 +33,7 @@ Para resolver los retos, utilizo:
 | 05  | Emparejando botas 🥾          | ✅ Completado | [Día 5](./day05/solution.js)                            |
 | 06  | 📦 ¿Regalo dentro de la caja? | ✅ Completado | [Día 6](./day06/solution.js)                            |
 | 07  | El ataque del Grinch 👹       | ✅ Completado | [Día 7](./day07/solution.js)                            |
+| 08  | La carrera de renos 🦌        | ✅ Completado | [Día 8](./day08/solution.js)                            |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
