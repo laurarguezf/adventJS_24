@@ -35,6 +35,7 @@ Para resolver los retos, utilizo:
 | 07  | El ataque del Grinch 👹       | ✅ Completado | [Día 7](./day07/solution.js)                            |
 | 08  | La carrera de renos 🦌        | ✅ Completado | [Día 8](./day08/solution.js)                            |
 | 09  | 🚂 El tren mágico             | ✅ Completado | [Día 9](./day09/solution.js)                            |
+| 10  | 👨‍💻 El ensamblador élfico      | ✅ Completado | [Día 10](./day10/solution.js)                            |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
