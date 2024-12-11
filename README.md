@@ -34,6 +34,7 @@ Para resolver los retos, utilizo:
 | 06  | 📦 ¿Regalo dentro de la caja? | ✅ Completado | [Día 6](./day06/solution.js)                            |
 | 07  | El ataque del Grinch 👹       | ✅ Completado | [Día 7](./day07/solution.js)                            |
 | 08  | La carrera de renos 🦌        | ✅ Completado | [Día 8](./day08/solution.js)                            |
+| 09  | 🚂 El tren mágico             | ✅ Completado | [Día 9](./day09/solution.js)                            |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
