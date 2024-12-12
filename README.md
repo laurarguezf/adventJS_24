@@ -37,6 +37,7 @@ Para resolver los retos, utilizo:
 | 09  | 🚂 El tren mágico             | ✅ Completado | [Día 9](./day09/solution.js)                            |
 | 10  | 👨‍💻 El ensamblador élfico      | ✅ Completado | [Día 10](./day10/solution.js)                           |
 | 11  | 🏴‍☠️ Nombres de archivos codificados      | ✅ Completado | [Día 11](./day11/solution.js)                 |
+| 12  | ¿Cuánto cuesta el árbol? 💵   | ✅ Completado | [Día 12](./day12/solution.js)                           |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
