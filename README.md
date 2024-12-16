@@ -39,6 +39,7 @@ Para resolver los retos, utilizo:
 | 11  | 🏴‍☠️ Nombres de archivos codificados      | ✅ Completado | [Día 11](./day11/solution.js)                 |
 | 12  | ¿Cuánto cuesta el árbol? 💵   | ✅ Completado | [Día 12](./day12/solution.js)                           |
 | 13  | 🤖 ¿El robot está de vuelta? 💵   | ✅ Completado | [Día 13](./day13/solution.js)                       |
+| 14  | 🦌 Acomodando los renos       | ✅ Completado | [Día 14](./day14/solution.js)                           |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
