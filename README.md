@@ -40,7 +40,8 @@ Para resolver los retos, utilizo:
 | 12  | ¿Cuánto cuesta el árbol? 💵   | ✅ Completado | [Día 12](./day12/solution.js)                           |
 | 13  | 🤖 ¿El robot está de vuelta? 💵   | ✅ Completado | [Día 13](./day13/solution.js)                       |
 | 14  | 🦌 Acomodando los renos       | ✅ Completado | [Día 14](./day14/solution.js)                           |
-| 15  | ✏️ Dibujando tablas            | ✅ Completado | [Día 15](./day15/solution.js)                           |
+| 15  | ✏️ Dibujando tablas            | ✅ Completado | [Día 15](./day15/solution.js)                          |
+| 16  | ❄️ Limpiando la nieve del camino | ✅ Completado | [Día 16](./day16/solution.js)                        |
 
 _Se actualizará diariamente hasta completar los 24 retos._
 
